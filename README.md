@@ -48,9 +48,9 @@ This project aims to create a user-friendly and accessible online referral syste
 - Streamlined referral process, reducing frustration and inefficiencies.
 
 **Next Steps:**
-- Engage with experienced practitioners to gather insights and validate assumptions.\
-- Develop a prototype of the online platform and gather feedback from stakeholders.\
-- Implement multilingual support and ensure accessibility for diverse populations.\
+- Engage with experienced practitioners to gather insights and validate assumptions.
+- Develop a prototype of the online platform and gather feedback from stakeholders.
+- Implement multilingual support and ensure accessibility for diverse populations.
 - Launch pilot programs in selected clinics or community centers to test and refine the referral system.
 - Continuously gather user feedback, analyze data, and iterate on the platform for optimal performance.
 
