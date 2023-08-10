@@ -1,5 +1,7 @@
 **Project Title: Seamless Health Resource Referral System for Vulnerable Communities**
-![Homepage](Health4allHome-page/images/homepage.png)
+
+![Homepage](https://github.com/Mayesamomo/Health4allHome-page/raw/main/images/Homepage.png)
+
 **Description:**\
 This project aims to create a user-friendly and accessible online referral system that connects health practitioners in nurse-led clinics and community centers with essential health resources for local communities, immigrant individuals, homeless people, and those in need. The goal is to streamline the process of finding and accessing medical care, mental health services, food banks, and other crucial resources to improve overall well-being and health outcomes.
 
